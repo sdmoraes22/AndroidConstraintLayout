@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="nome">Nome:</string>
+    <string name="email">E-mail:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
+</resources>
